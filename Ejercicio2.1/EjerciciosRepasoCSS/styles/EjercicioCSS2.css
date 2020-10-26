@@ -1,0 +1,13 @@
+div {
+    border: 1px solid grey;
+    background-color: gainsboro;
+    padding: 1em;
+}
+
+.anterior {
+    float: left;
+}
+
+.siguiente {
+    float: right;
+}
